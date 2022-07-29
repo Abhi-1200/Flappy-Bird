@@ -4,4 +4,5 @@ It is an arcade-style game in which the player controls the bird which moves per
 ## Controls
 Use the SPACE bar to jump and ENTER to pause/play
 ## Screenshots
-[!Play Screen](https://github.com/Abhi-1200/Flappy-Bird/blob/main/Screenshots/Play%20state.png)
+[!Start Screen](https://raw.githubusercontent.com/Abhi-1200/Flappy-Bird/main/Screenshots/Start%20state%20Floppy%20Bird.png)
+[!Play Screen](https://raw.githubusercontent.com/Abhi-1200/Flappy-Bird/main/Screenshots/Play%20state.png)
